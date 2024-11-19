@@ -1,6 +1,6 @@
 {
   "../node_modules/@capacitor/haptics/dist/esm/web.js": {
-    "file": "assets/web-B3TmT3Fz.js",
+    "file": "trumpet_genie/assets/web-B3TmT3Fz.js",
     "name": "web",
     "src": "../node_modules/@capacitor/haptics/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -8,32 +8,32 @@
       "index.html"
     ]
   },
-  "assets/audio/tick_0.wav": {
-    "file": "assets/tick_0-DMTS0I_l.wav",
-    "src": "assets/audio/tick_0.wav"
+  "trumpet_genie/assets/audio/tick_0.wav": {
+    "file": "trumpet_genie/assets/tick_0-DMTS0I_l.wav",
+    "src": "trumpet_genie/assets/audio/tick_0.wav"
   },
-  "assets/audio/tick_1.wav": {
-    "file": "assets/tick_1-B0--lrU8.wav",
-    "src": "assets/audio/tick_1.wav"
+  "trumpet_genie/assets/audio/tick_1.wav": {
+    "file": "trumpet_genie/assets/tick_1-B0--lrU8.wav",
+    "src": "trumpet_genie/assets/audio/tick_1.wav"
   },
-  "assets/audio/tick_2.wav": {
-    "file": "assets/tick_2-LM7Avgww.wav",
-    "src": "assets/audio/tick_2.wav"
+  "trumpet_genie/assets/audio/tick_2.wav": {
+    "file": "trumpet_genie/assets/tick_2-LM7Avgww.wav",
+    "src": "trumpet_genie/assets/audio/tick_2.wav"
   },
-  "assets/fonts/Figtree.ttf": {
-    "file": "assets/Figtree-Bm0mD-Tr.ttf",
-    "src": "assets/fonts/Figtree.ttf"
+  "trumpet_genie/assets/fonts/Figtree.ttf": {
+    "file": "trumpet_genie/assets/Figtree-Bm0mD-Tr.ttf",
+    "src": "trumpet_genie/assets/fonts/Figtree.ttf"
   },
-  "assets/fonts/JetBrainsMono.ttf": {
-    "file": "assets/JetBrainsMono-BzXBp1x2.ttf",
-    "src": "assets/fonts/JetBrainsMono.ttf"
+  "trumpet_genie/assets/fonts/JetBrainsMono.ttf": {
+    "file": "trumpet_genie/assets/JetBrainsMono-BzXBp1x2.ttf",
+    "src": "trumpet_genie/assets/fonts/JetBrainsMono.ttf"
   },
-  "assets/icon/icon.svg": {
-    "file": "assets/icon-CrJPZfDj.svg",
-    "src": "assets/icon/icon.svg"
+  "trumpet_genie/assets/icon/icon.svg": {
+    "file": "trumpet_genie/assets/icon-CrJPZfDj.svg",
+    "src": "trumpet_genie/assets/icon/icon.svg"
   },
   "index.html": {
-    "file": "assets/index-BotD2MRp.js",
+    "file": "trumpet_genie/assets/index-BotD2MRp.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -41,17 +41,17 @@
       "../node_modules/@capacitor/haptics/dist/esm/web.js"
     ],
     "assets": [
-      "assets/manifest-2QzXyYp_.json",
-      "assets/icon-CrJPZfDj.svg",
-      "assets/Figtree-Bm0mD-Tr.ttf",
-      "assets/JetBrainsMono-BzXBp1x2.ttf",
-      "assets/tick_0-DMTS0I_l.wav",
-      "assets/tick_1-B0--lrU8.wav",
-      "assets/tick_2-LM7Avgww.wav"
+      "trumpet_genie/assets/manifest-2QzXyYp_.json",
+      "trumpet_genie/assets/icon-CrJPZfDj.svg",
+      "trumpet_genie/assets/Figtree-Bm0mD-Tr.ttf",
+      "trumpet_genie/assets/JetBrainsMono-BzXBp1x2.ttf",
+      "trumpet_genie/assets/tick_0-DMTS0I_l.wav",
+      "trumpet_genie/assets/tick_1-B0--lrU8.wav",
+      "trumpet_genie/assets/tick_2-LM7Avgww.wav"
     ]
   },
   "manifest.json": {
-    "file": "assets/manifest-2QzXyYp_.json",
+    "file": "trumpet_genie/assets/manifest-2QzXyYp_.json",
     "src": "manifest.json"
   }
 }
