@@ -17,7 +17,7 @@
       "purpose": "any maskable"
     },
     {
-      "src": "/icons/icon-96.webp",
+      "src": "icons/icon-96.webp",
       "type": "image/png",
       "sizes": "96x96",
       "purpose": "any maskable"
